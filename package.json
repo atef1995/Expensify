@@ -77,7 +77,7 @@
     "@react-native-firebase/analytics": "^12.3.0",
     "@react-native-firebase/app": "^12.3.0",
     "@react-native-firebase/crashlytics": "^12.3.0",
-    "@react-native-firebase/perf": "^12.3.0",
+    "@react-native-firebase/perf": "^17.4.3",
     "@react-native-google-signin/google-signin": "^10.0.1",
     "@react-native-picker/picker": "^2.4.3",
     "@react-navigation/material-top-tabs": "^6.6.3",
